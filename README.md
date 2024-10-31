@@ -89,7 +89,7 @@
   <a href="https://t.me/RogerMo01" target="_blank">
     <img width="56" height="56" src="https://img.icons8.com/3d-fluency/94/telegram.png" alt="telegram"/>
   </a>
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/in/moreno-roger/" target="_blank">
     <img width="56" height="56" src="https://img.icons8.com/3d-fluency/94/linkedin.png" alt="linkedin"/>
   </a>
   <a href="mailto:morenoroger001@gmail.com" target="_blank">
