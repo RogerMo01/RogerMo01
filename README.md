@@ -78,6 +78,8 @@
 
   <img width="56" height="56" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo"/>
 
+  <img width="56" height="56" src="https://img.icons8.com/color/96/tailwindcss.png" alt="tailwindcss"/>
+  
   <img width="56" height="56" src="https://img.icons8.com/color/96/haskell.png" alt="haskell"/>
   
 </div>
